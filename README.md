@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tiresoti
 - 👀 I’m interested in programming and game development.
-- 🌱 I’m currently learning C#, Unity and Git.
+- 🌱 I’m currently learning Python and trying not to forget C#.
 - 💞️ I’m looking to collaborate on Unity game projects.
 
 <!---
